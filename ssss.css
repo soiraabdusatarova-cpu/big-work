@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.block {
+  height: 40px;
+  background-color: purple;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.block h3 {
+  color: orange;
+}
+
+.block p {
+  color: #fff;
+}
+
+header {
+  height: 65px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 50px;
+  background: white;
+  color: #fff;
+  border: 1px solid gray;
+}
+
+.box {
+  height: 47px;
+  width: 174px;
+  background-image: url(Group\ 31.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+h4 {
+  color: #fff;
+}
+
+
+
+button {
+  background-color: purple;
+  height: 43px;
+  width: 250px;
+  border: 0px;
+}
+
+.in1 {
+  height: 400px;
+  width: 1168px;
+  background-image: url(Rectangle\ 141.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  margin-top: 30px;
+
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 40px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 10px;
+
+}
+
+.info {
+  flex: 1;
+}
+
+.info h2 {
+  color: black;
+  margin-bottom: 20px;
+}
+
+.info p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+
+.map {
+  width: 768px;
+  height: 600px;
+  background-image: url(Rectangle.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.foto {
+  width: 25px;
+  height: 25px;
+  background-image: url(clock\ 2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.foto1 {
+  width: 25px;
+  height: 25px;
+  background-image: url(Frame\ 10.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.foto2 {
+  width: 25px;
+  height: 25px;
+  background-image: url(marker\ 2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box17 {
+  height: 320px;
+  background-color: rgb(44, 42, 42);
+  margin-top: 20px;
+}
+
+.in27 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: start;
+}
+
+.in27 p {
+  width: 320px;
+  color: grey;
+  margin: 0 auto;
+
+}
+
+.in27 h2 {
+  margin-top: 20px;
+  color: white;
+}
+
+.in27 h3 {
+  color: whitesmoke;
+
+}
+
+.in28 {
+   font-size: 10px;
+  margin-left: 0px;
+  color: gray;
+}
+
+.in29 {
+  font-size: 10px;
+  margin-left: 0px;
+  color: gray;
+}
+
+.box13 h3 {
+  color: rgb(86, 11, 156);
+
+}
+
+.hhhh h3 {
+  color: rgb(86, 11, 156);
+}
+
+.bin {
+  font-size: 50px;
+  width: 500px;
+}
+
+.bin1 {
+  font-size: 20px;
+  width: 500px;
+  margin-top: 80px;
+}
